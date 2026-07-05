@@ -13,10 +13,6 @@ models/
 ├── staging/
 ├── dim/
 └── fact/
-
-snapshots/
-seeds/
-tests/
 ```
 
 ## What I Explored
